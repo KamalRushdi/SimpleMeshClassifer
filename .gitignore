@@ -1,0 +1,6 @@
+# Ignore all .ply files
+*.ply
+.idea/
+data
+data.zip
+results
