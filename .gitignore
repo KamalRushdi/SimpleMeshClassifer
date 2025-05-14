@@ -4,3 +4,6 @@
 data
 data.zip
 results
+data_classification
+labels.csv
+*.pkl
